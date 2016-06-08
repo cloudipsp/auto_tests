@@ -1,0 +1,10 @@
+log.html
+report.html
+*.png
+*.*~
+.idea/
+pub_html/
+.py~
+.txt~
+.xml
+.csv

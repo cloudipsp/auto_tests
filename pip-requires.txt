@@ -1,0 +1,5 @@
+robotframework==2.9a1
+selenium
+robotframework-selenium2library
+requests
+python-telegram-bot

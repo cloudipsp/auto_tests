@@ -1,0 +1,22 @@
+[Fondy](https://www.fondy.eu/) is Internet Payment Service Provider which provides online acquiring with global benefits
+![worldwide](https://cdn-images-1.medium.com/max/1200/1*bb_xDOwqkMtth4j-9ZT43A.png)
+
+* [Demo Merchant Portal](https://www.fondy.eu/mportal/#/account/demo) 
+* [Demo Checkout Page](https://demoshop.fondy.eu)
+* [Payment API](https://www.fondy.eu/info/api)
+* [Android SDK](https://www.fondy.eu/en/info/api/v1.0/16)
+* [iOS SDK](https://www.fondy.eu/en/info/api/v1.0/15)
+* [PHP SDK](https://www.fondy.eu/en/info/api/v1.0/17)
+* [CMS modules](https://www.fondy.eu/products/business/cms)
+* [Regular payments](https://www.fondy.eu/products/business/rec_pays)
+* [International payments](https://www.fondy.eu/products/business/int_pays)
+* [Card payouts](https://www.fondy.eu/products/business/card_pays)
+* [Host2Host payment solutions](https://www.fondy.eu/products/business/h2h_pays)
+* [Invoicing](https://www.fondy.eu/products/business/invoices)
+* [Antifraud](https://www.fondy.eu/products/business/antifraud)
+* [White label for banks and IPSPs](https://www.fondy.eu/solutions/)
+* [Affiliate program](https://www.fondy.eu/partners)
+* [About company](https://www.fondy.eu/company_info/contacts)
+
+![Demo Merchant Portal](https://dl.dropboxusercontent.com/u/15535420/demmp.png)
+![Demo Checkout Page](https://dl.dropboxusercontent.com/u/15535420/demoshop.png)
